@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This project is a simple guide to the necessary prerequisites and initial installation of osTicket. OsTicket is an open source, relatively cost-effective, self-hosted, and reliable support ticketing software used by approximately 15,000 organizations worldwide.<br />
+This project is a simple guide to the necessary prerequisites and initial installation of osTicket. osTicket is an open source, relatively cost-effective, self-hosted, and reliable support ticketing software used by approximately 15,000 organizations worldwide.<br />
 
 
 
