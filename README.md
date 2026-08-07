@@ -19,7 +19,7 @@ This project is a simple guide to the necessary prerequisites and initial instal
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Configure example virtual machine through Microsoft Azure.
 - Item 2
 - Item 3
 - Item 4
