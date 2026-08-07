@@ -19,7 +19,7 @@ This project is a simple guide to the necessary prerequisites and initial instal
 
 <h2>List of Prerequisites</h2>
 
-- Configure example virtual machine through Microsoft Azure.
+- Configure example virtual machine through Microsoft Azure
 - Install and configure Internet Information Services (IIS)
 - Item 3
 - Item 4
