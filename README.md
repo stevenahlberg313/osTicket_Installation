@@ -23,7 +23,7 @@ This project is a simple guide to the necessary prerequisites and initial instal
 - Download osTicket
 - Install and configure Internet Information Services (IIS)
 - Install osTicket
-- Item 5
+- Configure osTicket to what is needed
 
 <h2>Installation Steps</h2>
 
