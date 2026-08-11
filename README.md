@@ -129,7 +129,7 @@ Time came to install the Rewrite Module. Double clicking "rewrite_amd64_en-US" f
 
 </p>
 <p>
-Next, I needed to create a new directory called PHP. To do so I opened a new File Explorer Window and navigated to the "C" drive within "This PC"
+Next, I needed to create a new directory called PHP. Thus, I opened a new File Explorer Window and navigated to the "C" drive within "This PC"
 </p>
 <br />
 
