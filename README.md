@@ -100,12 +100,13 @@ Upon selecting "OK", CGI will begin downloading.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Moving along, I needed to install PHPManagerForIIS_V1.5.0. To do so, I navigated back to osTicket's installation files in File Explorer.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1122" height="636" alt="image" src="https://github.com/user-attachments/assets/56588ea6-af2d-49b2-84c8-24656bcf62b4" />
+
 
 </p>
 <p>
