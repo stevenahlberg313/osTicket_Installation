@@ -415,24 +415,26 @@ Once inside HeidiSQL, I needed to make a connection to my database in osTicket. 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then configured the user and password to match what I used before, and clicking open to move on to the next step.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="685" height="480" alt="Screenshot 2026-08-11 004853" src="https://github.com/user-attachments/assets/9bb7d8cc-297a-472e-9346-7517b4e18cd3" />
 
 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The next step was to create a new database called osTicket. I right clicked on the "Unnamed" folder, selected "create new, and "Database".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="934" height="592" alt="Screenshot 2026-08-11 005501" src="https://github.com/user-attachments/assets/7ab57fab-90f0-44e4-ad2a-336fb29a4e87" />
 
+<p>
+<img <img width="928" height="595" alt="Screenshot 2026-08-11 005622" src="https://github.com/user-attachments/assets/fd0fafb9-6a07-4b42-938c-6f39ac0ca4c7" />
 
 
 </p>
