@@ -149,7 +149,7 @@ From the “osTicket Installation Files” folder, I needed to unzip PHP 7.3.8 (
 
 </p>
 <p>
-The installation of VC_redist.x86.exe from the "osTicket Installation Files" folder came next. A simple double click began the process.
+The installation of VC_redist.x86.exe from the "osTicket Installation Files" folder came next. osTicket needed VC_redist.x86.exe because PHP depends on Visual C++ runtime libraries to run properly on Windows. A simple double click began the process.
 </p>
 <br />
 
