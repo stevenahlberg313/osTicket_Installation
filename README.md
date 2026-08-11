@@ -384,34 +384,32 @@ For the sake of this demonstration, I will select "add", "select principal", and
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then it was time to actually configure the osTicket basic installation. To accomplish this, I went back to the osTicket webpage, clicked "continue" and filled out the installation page.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img <img width="821" height="1220" alt="Screenshot 2026-08-11 002750" src="https://github.com/user-attachments/assets/10379988-4dab-4545-b17f-9a7c0e8cdf27" />
 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+But before I could click "Install Now", I needed to install "HeidiSQL". To do so, I opened, the "osTicket-Installation-Files" folder and opened "HeidiSQL".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1357" height="516" alt="Screenshot 2026-08-11 004115" src="https://github.com/user-attachments/assets/b6686077-d897-42bf-8d0a-65f1714a02c1" />
+
+
+</p>
+<p>
+Once inside HeidiSQL, I needed to make a connection to my database in osTicket. To accomplish that, I started by navigating to the "New" button in the bottom left of the window.
+</p>
+<br />
+
+<p>
+<img <img width="687" height="477" alt="Screenshot 2026-08-11 004507" src="https://github.com/user-attachments/assets/18f2c52b-15ce-40a7-8248-a91e95b82fd8" />
 
 
 
