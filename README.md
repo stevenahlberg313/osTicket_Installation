@@ -59,7 +59,8 @@ The extracted files will look like this following image.
 <br />
 
 <p>
-<img <img width="1117" height="636" alt="Screenshot 2026-08-10 195951" src="https://github.com/user-attachments/assets/59b7631f-54b6-46ad-bddc-e12a945ea94e" />
+<img <img width="1170" height="650" alt="Screenshot 2026-08-10 204515" src="https://github.com/user-attachments/assets/78699f89-ff9c-45fd-b52b-cb032bb3bd91" />
+
 
 </p>
 <p>
