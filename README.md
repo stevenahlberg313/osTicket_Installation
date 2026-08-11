@@ -61,12 +61,13 @@ The extracted files will look like this following image.
 
 </p>
 <p>
-Next, I opened https://drive.usercontent.google.com/open?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&authuser=0
+Next, I went to "Turn Windows Features on or off" within Control Panel> Programs> Programs and Features
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1123" height="634" alt="Screenshot 2026-08-10 201108" src="https://github.com/user-attachments/assets/90f9ea7a-f97d-42af-8031-0d1299b4e52d" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
