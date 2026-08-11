@@ -168,21 +168,23 @@ From the “osTicket-Installation-Files” folder, I installed MySQL 5.5.62 (mys
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Subsequently, within the setup wizard, I chose the "Standard" configuration for this demonstration.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1122" height="630" alt="Screenshot 2026-08-10 221354" src="https://github.com/user-attachments/assets/a05ba699-0604-42a8-bdc2-6a0303ed762b" />
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then set it to install as a Windows Service.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1117" height="636" alt="Screenshot 2026-08-10 221617" src="https://github.com/user-attachments/assets/8090e475-f08a-4a18-9568-d40908c784d2" />
+
 
 </p>
 <p>
