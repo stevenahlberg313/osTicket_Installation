@@ -15,7 +15,7 @@ This project is a simple guide to the necessary prerequisites and initial instal
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Enterprise multi-session, version 22H2 - x64 Gen2
 
 <h2>List of Prerequisites</h2>
 
