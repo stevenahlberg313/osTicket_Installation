@@ -240,21 +240,22 @@ I made sure to select the "php-cgi" file from within the PHP folder I created on
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To ensure the server functions properly, I used the restart button in the top right of the IIS window.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="197" height="353" alt="Screenshot 2026-08-10 230017" src="https://github.com/user-attachments/assets/fb4d041a-8e74-4e6e-aeb7-efcc7c06bc3a" />
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After all of that, it had finally come time to actually "install" osTicket. To fulfill this, I reopened the “osTicket-Installation-Files” folder, unzipped "osTicket-v1.15.8.zip", and copied the "upload" folder into "c:inetpub\wwwroot"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1488" height="792" alt="Screenshot 2026-08-10 231146" src="https://github.com/user-attachments/assets/50fe6f78-f710-4b3e-8ad3-06189494917a" />
 
 </p>
 <p>
