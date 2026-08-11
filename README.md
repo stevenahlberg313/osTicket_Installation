@@ -207,12 +207,13 @@ Finally, the configuration wizard allowed me to execute the installation.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then needed to open IIS as the Admin. To accomplish this I navigated to the search bar in the bottom left and searched for "ISS". When it appeared, I made sure to select "Run as Administrator". 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="831" height="677" alt="Screenshot 2026-08-10 223159" src="https://github.com/user-attachments/assets/39388172-e11b-4fb2-8cb3-3f82c24a6b4a" />
+
 
 </p>
 <p>
