@@ -212,11 +212,7 @@ I then needed to open IIS as the Admin. To accomplish this I navigated to the se
 <br />
 
 <p>
-<img <img width="1642" height="265" alt="Screenshot 2026-08-10 224430" src="https://github.com/user-attachments/assets/b18e1982-dfd5-4e62-b2e6-fece29a3abff" />
-
-<p>
-<img <img width="919" height="673" alt="Screenshot 2026-08-10 224535" src="https://github.com/user-attachments/assets/5b4c5d87-f915-4175-a603-3c2ce0d2a603" />
-
+<img <img width="831" height="677" alt="Screenshot 2026-08-10 223159" src="https://github.com/user-attachments/assets/fa88902b-0c35-4b00-9c23-45555ee0c935" />
 
 
 </p>
@@ -227,6 +223,9 @@ From inside the ISS window, I had to register PHP. To accomplish this, I had to 
 
 <p>
 <img <img width="1642" height="265" alt="Screenshot 2026-08-10 224430" src="https://github.com/user-attachments/assets/35798b66-8435-47ff-95c1-d206c59763da" />
+
+<p>
+<img <img width="919" height="673" alt="Screenshot 2026-08-10 224535" src="https://github.com/user-attachments/assets/5b4c5d87-f915-4175-a603-3c2ce0d2a603" />
 
 
 </p>
