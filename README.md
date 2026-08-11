@@ -158,12 +158,13 @@ The installation of VC_redist.x86.exe from the "osTicket Installation Files" fol
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the “osTicket-Installation-Files” folder, I installed MySQL 5.5.62 (mysql-5.5.62-win32.msi). Again, a simple double click began the process.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1208" height="631" alt="Screenshot 2026-08-10 220813" src="https://github.com/user-attachments/assets/acb6e11e-11db-4a9a-8944-0ea70f80d239" />
+
 
 </p>
 <p>
