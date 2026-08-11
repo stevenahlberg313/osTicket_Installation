@@ -158,7 +158,7 @@ The installation of VC_redist.x86.exe from the "osTicket Installation Files" fol
 
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, I installed MySQL 5.5.62 (mysql-5.5.62-win32.msi). Again, a simple double click began the process.
+From the “osTicket-Installation-Files” folder, I installed MySQL 5.5.62 (mysql-5.5.62-win32.msi). This created the database system that osTicket relies upon to store and manage ticket and user information. Again, a simple double click began the process.
 </p>
 <br />
 
