@@ -274,21 +274,28 @@ Then the upload folder I just copied into "c:inetpub\wwwroot" needed to be renam
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To force the server's information to update, I restarted it again with the button up in the top right of the IIS window.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="197" height="353" alt="Screenshot 2026-08-10 230017" src="https://github.com/user-attachments/assets/8e260afd-ce77-47a3-ac29-70d67e8b44ce" />
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to check that the IIS is functioning properly, in the IIS window, I navigated through "Admin-1> Sites> Default Web Site> osTicket. Then on the far right of the screen I clicked "Browse*:80(http)".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="427" height="257" alt="Screenshot 2026-08-10 232742" src="https://github.com/user-attachments/assets/4813eda3-56ee-43c5-a113-c70d13e46e7c" />
+
+<p>
+<img <img width="201" height="245" alt="Screenshot 2026-08-10 233147" src="https://github.com/user-attachments/assets/d934bfe0-a05e-42df-afd2-7be579972cc5" />
+
+</p>
+
 
 </p>
 <p>
