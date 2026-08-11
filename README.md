@@ -213,16 +213,18 @@ I then needed to open IIS as the Admin. To accomplish this I navigated to the se
 
 <p>
 <img <img width="831" height="677" alt="Screenshot 2026-08-10 223159" src="https://github.com/user-attachments/assets/39388172-e11b-4fb2-8cb3-3f82c24a6b4a" />
+<img width="919" height="673" alt="Screenshot 2026-08-10 224535" src="https://github.com/user-attachments/assets/539df93e-41f1-496f-9a1e-afb8688d549a" />
 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From inside the ISS window, I had to register PHP. To accomplish this, I had to open the PHP manager, then select "Register new PHP version".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1642" height="265" alt="Screenshot 2026-08-10 224430" src="https://github.com/user-attachments/assets/35798b66-8435-47ff-95c1-d206c59763da" />
+
 
 </p>
 <p>
