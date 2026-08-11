@@ -20,7 +20,7 @@ This project is a simple guide to the necessary prerequisites and initial instal
 <h2>List of Prerequisites</h2>
 
 - Configure example virtual machine through Microsoft Azure
-- Download osTicket https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
+- Download osTicket (https://github.com/osTicket/osTicket/releases/download/v1.15.8/osTicket-v1.15.8.zip)
 - Install and configure Internet Information Services (IIS)
 - Install osTicket
 - Configure osTicket to what is needed
