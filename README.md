@@ -54,7 +54,7 @@ Using the link provided (https://drive.google.com/uc?export=download&id=1b3RBkXT
 
 </p>
 <p>
-The extracted files will look like this following image.
+The extracted files looked like this following image.
 </p>
 <br />
 
@@ -82,7 +82,7 @@ Upon clicking "Turn Windows Features on or off", I was allowed to search for and
 
 </p>
 <p>
-osTicket also requires CGI. To find it I expanded Internet Information Services, World Wide Web Services, and Application Development Features.
+osTicket also required CGI. To find it I expanded Internet Information Services, World Wide Web Services, and Application Development Features.
 </p>
 <br />
 
@@ -91,7 +91,7 @@ osTicket also requires CGI. To find it I expanded Internet Information Services,
 
 </p>
 <p>
-Upon selecting "OK", CGI will begin downloading.
+Upon selecting "OK", CGI began downloading.
 </p>
 <br />
 
@@ -100,7 +100,7 @@ Upon selecting "OK", CGI will begin downloading.
 
 </p>
 <p>
-Moving along, I needed to install PHPManagerForIIS_V1.5.0. To do so, I navigated back to osTicket's installation files in File Explorer.
+I needed to install PHPManagerForIIS_V1.5.0. To do so, I navigated back to osTicket's installation files in File Explorer.
 </p>
 <br />
 
@@ -110,7 +110,7 @@ Moving along, I needed to install PHPManagerForIIS_V1.5.0. To do so, I navigated
 
 </p>
 <p>
-Double clicking PHPManagerForIIS_V1.5.0 to begin the installation.
+Double clicking PHPManagerForIIS_V1.5.0 began the installation.
 </p>
 <br />
 
@@ -119,12 +119,13 @@ Double clicking PHPManagerForIIS_V1.5.0 to begin the installation.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Time came to install the Rewrite Module. Double clicking "rewrite_amd64_en-US" from within the osTicket installation file began that install.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1126" height="629" alt="Screenshot 2026-08-10 210611" src="https://github.com/user-attachments/assets/bc3e33c7-f6e4-4761-b725-9f00a91f680c" />
+
 
 </p>
 <p>
