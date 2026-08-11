@@ -139,7 +139,7 @@ Next, I needed to create a new directory called PHP. Thus, I opened a new File E
 
 </p>
 <p>
-From the “osTicket Installation Files” folder, I needed to unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder.
+From the “osTicket Installation Files” folder, I needed to unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder. Doing this allowed Windows and osTicket the ability to find and use the needed PHP files to operate the application.
 </p>
 <br />
 
