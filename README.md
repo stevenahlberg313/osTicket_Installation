@@ -40,12 +40,15 @@ I used remote desktop to login to my VM. (Equivalent of logging into a physical 
 
 </p>
 <p>
-Using the link provided (https://github.com/osTicket/osTicket/releases/download/v1.15.8/osTicket-v1.15.8.zip) , I downloaded the necessary installation files for osTicket.
+Using the link provided (https://github.com/osTicket/osTicket/releases/download/v1.15.8/osTicket-v1.15.8.zip) , I downloaded and extracted the necessary installation files for osTicket.
 </p>
 <br />
 
 <p>
 <img <img width="1121" height="634" alt="Screenshot 2026-08-10 195352" src="https://github.com/user-attachments/assets/3406f8cc-5029-42c2-9a41-24701b2e8676" />
+
+<p>
+<img <img width="1121" height="630" alt="Screenshot 2026-08-10 195732" src="https://github.com/user-attachments/assets/a5e27559-7f6e-4b9d-b555-04013ea5a928" />
 
 </p>
 <p>
