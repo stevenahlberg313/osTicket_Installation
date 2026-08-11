@@ -49,7 +49,8 @@ Using the link provided (https://drive.google.com/uc?export=download&id=1b3RBkXT
 
 
 <p>
-<img <img width="1121" height="630" alt="Screenshot 2026-08-10 195732" src="https://github.com/user-attachments/assets/a5e27559-7f6e-4b9d-b555-04013ea5a928" />
+<img <img width="1142" height="632" alt="Screenshot 2026-08-10 204348" src="https://github.com/user-attachments/assets/710da985-2c76-462b-8d76-660b0cbfbb22" />
+
 
 </p>
 <p>
