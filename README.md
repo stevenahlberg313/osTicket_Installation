@@ -119,7 +119,7 @@ Double clicking PHPManagerForIIS_V1.5.0 began the installation.
 
 </p>
 <p>
-Time came to install the Rewrite Module. Double clicking "rewrite_amd64_en-US" from within the "osTicket Installation Files" folder began that install.
+Time came to install the Rewrite Module. Double clicking "rewrite_amd64_en-US" from within the "osTicket Installation Files" folder began that install. The Rewrite Module facilitates osTicket's ability to use clean, user-friendly URLs by converting web addresses to the correct osTicket pages.
 </p>
 <br />
 
