@@ -198,12 +198,12 @@ Then I needed to configure the MySQL Server security with a password
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finally, the configuration wizard allowed me to execute the installation.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1123" height="632" alt="Screenshot 2026-08-10 222428" src="https://github.com/user-attachments/assets/1b151111-94b8-48d2-8544-c0d474502bc9" />
 
 </p>
 <p>
