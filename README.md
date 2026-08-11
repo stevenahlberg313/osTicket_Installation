@@ -20,7 +20,7 @@ This project is a simple guide to the necessary prerequisites and initial instal
 <h2>List of Prerequisites</h2>
 
 - Configure example virtual machine through Microsoft Azure
-- Download osTicket (https://github.com/osTicket/osTicket/releases/download/v1.15.8/osTicket-v1.15.8.zip)
+- Download osTicket https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
 - Install and configure Internet Information Services (IIS)
 - Install osTicket
 - Configure osTicket to what is needed
@@ -40,12 +40,13 @@ I used remote desktop to login to my VM. (Equivalent of logging into a physical 
 
 </p>
 <p>
-Using the link provided (https://github.com/osTicket/osTicket/releases/download/v1.15.8/osTicket-v1.15.8.zip) , I downloaded and extracted the necessary installation files for osTicket.
+Using the link provided (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)) , I downloaded and extracted the necessary installation files for osTicket.
 </p>
 <br />
 
 <p>
-<img <img width="1121" height="634" alt="Screenshot 2026-08-10 195352" src="https://github.com/user-attachments/assets/3406f8cc-5029-42c2-9a41-24701b2e8676" />
+<img <img width="1115" height="652" alt="Screenshot 2026-08-10 204221" src="https://github.com/user-attachments/assets/3d7fe302-5f1a-4c04-a256-3c88341ecd90" />
+
 
 <p>
 <img <img width="1121" height="630" alt="Screenshot 2026-08-10 195732" src="https://github.com/user-attachments/assets/a5e27559-7f6e-4b9d-b555-04013ea5a928" />
