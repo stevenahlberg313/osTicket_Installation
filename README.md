@@ -73,7 +73,7 @@ Next, I went to "Turn Windows Features on or off" within Control Panel> Programs
 
 </p>
 <p>
-Upon clicking "Turn Windows Features on or off", I was allowed to search for and activate Internet Information Services (IIS)
+Upon clicking "Turn Windows Features on or off", I was allowed to search for and activate Internet Information Services (IIS). osTicket requires IIS to act as the web server that will host and deliver osTicket to the users' browser.
 </p>
 <br />
 
