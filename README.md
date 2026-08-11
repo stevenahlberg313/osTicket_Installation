@@ -100,7 +100,7 @@ Upon selecting "OK", CGI began downloading.
 
 </p>
 <p>
-I needed to install PHPManagerForIIS_V1.5.0. To do so, I navigated back to the "osTicket Installation Files" folder in File Explorer.
+I needed to install PHPManagerForIIS_V1.5.0. To do so, I navigated back to the "osTicket Installation Files" folder in File Explorer. PHPManagerForIIS configures and manages the PHP file on IIS to enable osTicket's PHP file to run correctly.
 </p>
 <br />
 
