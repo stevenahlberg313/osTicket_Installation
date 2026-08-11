@@ -257,6 +257,11 @@ After all of that, it had finally come time to actually "install" osTicket. To f
 <p>
 <img <img width="1488" height="792" alt="Screenshot 2026-08-10 231146" src="https://github.com/user-attachments/assets/50fe6f78-f710-4b3e-8ad3-06189494917a" />
 
+<p>
+<img <img width="1133" height="622" alt="Screenshot 2026-08-10 231340" src="https://github.com/user-attachments/assets/0869ed1a-c175-4b98-92dc-4265b9687b8c" />
+
+</p>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
