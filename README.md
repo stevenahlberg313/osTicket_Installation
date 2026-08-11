@@ -40,7 +40,7 @@ I used remote desktop to login to my VM. (Equivalent of logging into a physical 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Using the link provided (https://github.com/osTicket/osTicket/releases/download/v1.15.8/osTicket-v1.15.8.zip) , I downloaded the necessary installation files for osTicket.
 </p>
 <br />
 
