@@ -264,12 +264,13 @@ After all of that, it had finally come time to actually "install" osTicket. To f
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then the upload folder I just copied into "c:inetpub\wwwroot" needed to be renamed "osTicket".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1119" height="202" alt="Screenshot 2026-08-10 231822" src="https://github.com/user-attachments/assets/d3bc9dbf-ca0a-4c92-b957-3e996143f565" />
+
 
 </p>
 <p>
