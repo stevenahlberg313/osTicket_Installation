@@ -207,7 +207,7 @@ Finally, the configuration wizard allowed me to execute the installation.
 
 </p>
 <p>
-I then needed to open IIS as the Admin. To accomplish this I navigated to the search bar in the bottom left and searched for "ISS". When it appeared, I made sure to select "Run as Administrator". 
+I then needed to open IIS as the Admin. To accomplish this, I navigated to the search bar in the bottom left and searched for "ISS". When it appeared, I made sure to select "Run as Administrator". 
 </p>
 <br />
 
