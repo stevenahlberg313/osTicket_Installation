@@ -214,6 +214,7 @@ I then needed to open IIS as the Admin. To accomplish this I navigated to the se
 <p>
 <img <img width="1642" height="265" alt="Screenshot 2026-08-10 224430" src="https://github.com/user-attachments/assets/b18e1982-dfd5-4e62-b2e6-fece29a3abff" />
 
+<p>
 <img <img width="919" height="673" alt="Screenshot 2026-08-10 224535" src="https://github.com/user-attachments/assets/5b4c5d87-f915-4175-a603-3c2ce0d2a603" />
 
 
