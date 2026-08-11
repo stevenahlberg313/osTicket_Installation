@@ -362,23 +362,23 @@ To facilitate configuration, I renamed "C:\inetpub\wwwroot\osTicket\include\ost-
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The following step was to assign permissions within "ost-config.php" to allow osTicket to make changes to that file. To complete it, I right clicked "ost-config.php", selected properties, then security, then advanced, and disable inheritance.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img <img width="1788" height="545" alt="Screenshot 2026-08-11 001358" src="https://github.com/user-attachments/assets/80e380f7-8092-4199-a6ac-91f07d56476d" />
 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For the sake of this demonstration, I will select "add", "select principal", and give "everyone" full control of this file. Not a good thing to do in an actual real world setting, but for the sake of simplicity this is how it will be configured.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="915" height="595" alt="Screenshot 2026-08-11 002111" src="https://github.com/user-attachments/assets/3b3757b2-84e6-4a91-9d2a-9a2044e03fe2" />
+
 
 
 
