@@ -129,12 +129,13 @@ Time came to install the Rewrite Module. Double clicking "rewrite_amd64_en-US" f
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, I needed to create a new directory called PHP. To do so I opened a new File Explorer Window and navigated to the "C" drive within "This PC"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1125" height="629" alt="Screenshot 2026-08-10 214217" src="https://github.com/user-attachments/assets/f0140191-dda6-4032-93c4-06c532c8e8a4" />
+
 
 </p>
 <p>
