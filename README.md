@@ -444,7 +444,7 @@ With that done, I was able to return to the osTicket Basic Installation web page
 <br />
 
 <p>
-<img <img width="822" height="1222" alt="Screenshot 2026-08-11 010106" src="https://github.com/user-attachments/assets/9de06572-7ce8-4c9a-9902-c1532d197504" />
+<img <img width="822" height="1222" alt="Screenshot 2026-08-11 010106" src="https://github.com/user-attachments/assets/76c82842-7645-489d-8674-aa58db51ef67" />
 
 <p>
 <img <img width="820" height="635" alt="Screenshot 2026-08-11 010254" src="https://github.com/user-attachments/assets/6f4c6a63-e454-4c82-bbe7-029c92a49c93" />
