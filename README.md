@@ -27,8 +27,9 @@ This project is a simple guide to the necessary prerequisites and initial instal
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> To facilitate this example installation, I created and deployed a virtual machine within Microsoft Azure. This step is unnecessary for you if you wish to follow along.
+<img <img width="2334" height="523" alt="Screenshot 2026-08-10 191906" src="https://github.com/user-attachments/assets/6910c8c8-47fd-4b75-9d7e-3cb668c48d7b" />
+/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
