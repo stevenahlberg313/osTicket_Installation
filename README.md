@@ -294,17 +294,15 @@ In order to check that the IIS is functioning properly, in the IIS window, I nav
 <p>
 <img <img width="201" height="245" alt="Screenshot 2026-08-10 233147" src="https://github.com/user-attachments/assets/d934bfe0-a05e-42df-afd2-7be579972cc5" />
 
-</p>
-
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As I made no mistakes, I was greeted with this screen.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1612" height="806" alt="Screenshot 2026-08-10 233433" src="https://github.com/user-attachments/assets/7632c4c4-45f5-41eb-bd0b-6c86b001777a" />
 
 </p>
 <p>
