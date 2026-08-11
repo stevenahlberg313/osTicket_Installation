@@ -188,12 +188,13 @@ Then set it to install as a Windows Service.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then I needed to configure the MySQL Server security with a password
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1121" height="636" alt="Screenshot 2026-08-10 222006" src="https://github.com/user-attachments/assets/f6af7b7b-5d9a-4e7b-9f83-adcd2ad02a88" />
+
 
 </p>
 <p>
