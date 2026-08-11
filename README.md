@@ -82,7 +82,7 @@ Upon clicking "Turn Windows Features on or off", I was allowed to search for and
 
 </p>
 <p>
-osTicket also required CGI. To find it I expanded Internet Information Services, World Wide Web Services, and Application Development Features.
+osTicket also required CGI. To find it I expanded Internet Information Services, World Wide Web Services, and Application Development Features. CGI is necessary because it allows IIS to execute PHP scripts and process the data that makes the osTicket application function.
 </p>
 <br />
 
