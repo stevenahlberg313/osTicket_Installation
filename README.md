@@ -100,7 +100,7 @@ Upon selecting "OK", CGI began downloading.
 
 </p>
 <p>
-I needed to install PHPManagerForIIS_V1.5.0. To do so, I navigated back to osTicket's installation files in File Explorer.
+I needed to install PHPManagerForIIS_V1.5.0. To do so, I navigated back to the "osTicket Installation Files" folder in File Explorer.
 </p>
 <br />
 
@@ -119,7 +119,7 @@ Double clicking PHPManagerForIIS_V1.5.0 began the installation.
 
 </p>
 <p>
-Time came to install the Rewrite Module. Double clicking "rewrite_amd64_en-US" from within the osTicket installation file began that install.
+Time came to install the Rewrite Module. Double clicking "rewrite_amd64_en-US" from within the "osTicket Installation Files" folder began that install.
 </p>
 <br />
 
@@ -139,7 +139,7 @@ Next, I needed to create a new directory called PHP. Thus, I opened a new File E
 
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, I needed to unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder.
+From the “osTicket Installation Files” folder, I needed to unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder.
 </p>
 <br />
 
@@ -149,12 +149,12 @@ From the “osTicket-Installation-Files” folder, I needed to unzip PHP 7.3.8 (
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The installation of VC_redist.x86.exe from the "osTicket Installation Files" folder came next. A simple double click began the process.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1123" height="631" alt="Screenshot 2026-08-10 220133" src="https://github.com/user-attachments/assets/90806ce8-b442-4405-bb50-174ef6bcb2ab" />
 
 </p>
 <p>
