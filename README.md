@@ -27,11 +27,11 @@ This project is a simple guide to the necessary prerequisites and initial instal
 
 <h2>Installation Steps</h2>
 
-<p> To facilitate this example installation, I created and deployed a virtual machine within Microsoft Azure. This step is unnecessary for you if you wish to follow along.
+<p> To facilitate this example installation, I created and deployed a virtual machine within Microsoft Azure. (Assuming you are working with a physical computer, this step is unnecessary for you if you wish to follow along.)
 <img <img width="2334" height="523" alt="Screenshot 2026-08-10 191906" src="https://github.com/user-attachments/assets/6910c8c8-47fd-4b75-9d7e-3cb668c48d7b" />
 </p>
 <p>
-I used remote desktop to login to my VM.
+I used remote desktop to login to my VM. (Equivalent of logging into a physical computer.)
 </p>
 <br />
 
