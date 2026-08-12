@@ -372,7 +372,7 @@ The following step was to assign permissions within "ost-config.php" to allow os
 
 </p>
 <p>
-For the sake of this demonstration, I will select "add", "select principal", and give "everyone" full control of this file. Not a good thing to do in an actual real world setting, but for the sake of simplicity this is how it will be configured.
+Within the confines of this demonstration, I will select "Add", "Select Principal", and give "Everyone" full control of this file. While granting these permissions would not be recommended in a real-world production environment due to security concerns, this configuration will be used here for simplicity and demonstration purposes.
 </p>
 <br />
 
