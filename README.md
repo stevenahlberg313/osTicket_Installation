@@ -297,7 +297,7 @@ In order to check that the IIS is functioning properly, in the IIS window, I nav
 
 </p>
 <p>
-As I made no mistakes, I was greeted with this screen.
+After successfully configuring osTicket thus far without error, the following screen was displayed.
 </p>
 <br />
 
