@@ -250,7 +250,7 @@ To ensure the server functions properly, I used the restart button in the top ri
 
 </p>
 <p>
-After all of that, it had finally come time to actually "install" osTicket. To fulfill this, I reopened the “osTicket-Installation-Files” folder, unzipped "osTicket-v1.15.8.zip", and copied the "upload" folder into "c:inetpub\wwwroot"
+After all of that, it had finally come time to actually "install" osTicket. To fulfill this, I reopened the “osTicket-Installation-Files” folder, unzipped "osTicket-v1.15.8.zip", and copied the "upload" folder into "c:inetpub\wwwroot". This allowed IIS to access and serve osTicket's file through the web browser.
 </p>
 <br />
 
