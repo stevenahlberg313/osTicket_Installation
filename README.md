@@ -454,7 +454,7 @@ With that done, I was able to return to the osTicket Basic Installation web page
 
 </p>
 <p>
-The final test if this demonstration, was to attempt to log into osTicket as both the Admin and user.
+The final test of this demonstration, was to attempt to log into osTicket as both the Admin and user.
 </p>
 <br />
 
