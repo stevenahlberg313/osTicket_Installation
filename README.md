@@ -394,7 +394,7 @@ Then it was time to actually configure the osTicket basic installation. To accom
 
 </p>
 <p>
-But before I could click "Install Now", I needed to install "HeidiSQL". To do so, I opened, the "osTicket-Installation-Files" folder and opened "HeidiSQL".
+But before I could click "Install Now", I needed to install "HeidiSQL". "HeidiSQL", while not absolutely necessary, would be convenient to have as it would allow for easy viewing, managing, and troubleshooting of the "MySQL" database. To do so, I opened, the "osTicket-Installation-Files" folder and opened "HeidiSQL".
 </p>
 <br />
 
