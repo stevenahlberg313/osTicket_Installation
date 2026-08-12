@@ -264,7 +264,7 @@ After all of that, it had finally come time to actually "install" osTicket. To f
 
 </p>
 <p>
-Then the upload folder I just copied into "c:inetpub\wwwroot" needed to be renamed "osTicket".
+Then the upload folder I just copied into "c:inetpub\wwwroot" needed to be renamed "osTicket". I did this to make the website easier to identify and allow myself access to my osTicket through "http://localhost/osTicket".
 </p>
 <br />
 
