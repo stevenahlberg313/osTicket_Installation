@@ -306,7 +306,7 @@ As I made no mistakes, I was greeted with this screen.
 
 </p>
 <p>
-The next step was to enable some of the extensions that might be useful later on. Specifically, "php_imap.dll", "php_intl.dll", and "php_opcache.dll". "php_imap.dll" allows osTicket to connect to and retrieve from emails to create support tickets. "php_intl.dll" opens osTicket to internationalization options such as languages, character sets, and date/ number formatting. "php_opcache.dll" provides osTicket a performance boost by caching PHP code in memory. To achieve this, I went back to the IIS window, navigated to Sites> Default Web Site> osTicket, and double clicked the PHP Manager.
+The next step was to enable some of the extensions that might be useful later on. Specifically, "php_imap.dll", "php_intl.dll", and "php_opcache.dll". "php_imap.dll" allowed osTicket to connect to and retrieve from emails to create support tickets. "php_intl.dll" opened osTicket to internationalization options such as languages, character sets, and date/ number formatting. "php_opcache.dll" provided osTicket a performance boost by caching PHP code in memory. To enable these extensions, I went back to the IIS window, navigated to Sites> Default Web Site> osTicket, and double clicked the PHP Manager.
 </p>
 <br />
 
